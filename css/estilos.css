@@ -59,6 +59,11 @@ nav ul li a:hover{
 
 }
 
+.formatoParrafo{
+  font-family: sans-serif;
+  color:white;
+}
+
 .mIz-1{
   margin-left: 1em;
 }
@@ -96,6 +101,16 @@ nav ul li a:hover{
 .fondoBlancoContenedor{
     background-color: white;
     border-radius: 1em;
+}
+
+.rad-border-simple{
+  border-radius: 1em;
+}
+
+.video-container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo-icon{
